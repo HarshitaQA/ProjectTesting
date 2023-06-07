@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "description": "LogInUser",
+      "password": "Password@123",
+      "userName": "Harshita"
+    }
+  ]
+}
